@@ -16,11 +16,11 @@ memory_cells        = [0]
 memory_pointer      = 0
 instruction_pointer = 0
 execution_step      = 0
-next_count	   		= 5
-lines_count    		= 1
-output_strip		= []
-input_strip			= []
-is_loop				= False
+next_count	    = 5
+lines_count    	    = 1
+output_strip	    = []
+input_strip	    = []
+is_loop		    = False
 loops_pointers      = []
 
 class Operations:
